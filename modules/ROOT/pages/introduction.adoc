@@ -1,3 +1,5 @@
+:page-role: deprecated
+:description: Kerberos is a network authentication protocol that allows the network node to prove its identity over the network. This is the introduction to the Neo4j Kerberos Add-on.
 [[add-on-kerberos-introduction]]
 = Introduction
 

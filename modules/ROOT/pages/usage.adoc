@@ -1,3 +1,5 @@
+:page-role: deprecated
+:description: How to use the Kerberos add-on in client applications.
 [[add-on-kerberos-usage]]
 = Usage
 
