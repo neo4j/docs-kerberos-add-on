@@ -1,5 +1,5 @@
 :description: This is the manual for the Neo4j Kerberos Add-on.
-:page-role: deprecated
+
 [[add-on-kerberos]]
 = The Neo4j Kerberos Add-on v{kerberos-add-on-version}
 

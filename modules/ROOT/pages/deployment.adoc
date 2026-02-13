@@ -1,4 +1,4 @@
-:page-role: deprecated
+
 :description: How to deploy the Neo4j Kerberos Add-on and compatibility information with Neo4j versions.
 [[add-on-kerberos-deployment]]
 = Deployment
