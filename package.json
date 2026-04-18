@@ -1,6 +1,6 @@
 {
   "name": "kerberos",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "Neo4j Kerberos Add-on",
   "main": "server.js",
   "repository": {
